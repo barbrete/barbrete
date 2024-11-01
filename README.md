@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://imgur.com/gallery/programming-background-zsJVejE](https://imgur.com/PzP0Dst)"  />
+  <img height="150" src="[https://imgur.com/gallery/programming-background-zsJVejE](https://imgur.com/PzP0Dst)" />
 </div>
 
 ###
@@ -72,7 +72,7 @@
 
 ###
 
-<p align="left">1.	<b>Software de Academia:</b> Um sistema em Java para academias e profissionais de saúde.<br>- [Academia-POO](https://github.com/barbrete/Academia-POO)<br>2.	<b>Api de Autenticação e Autorizaçao:</b> Feita em C# para Iniciação Científica que faço parte.<br>- [APIAlunoProfessor](https://github.com/barbrete/APIAlunoProfessor)<br>3.	<b>Pesquisa e Ordenação:</b> Algoritmos feitos em C para treinamento de maratonas de programação<br>- [Pesquisa-e-Ordenacao<br>](https://github.com/barbrete/Pesquisa-e-Ordenacao)</p>
+<p align="left">1.	<b>Software de Academia:</b> Um sistema em Java para academias e profissionais de saúde.<br>- [Academia-POO](https://github.com/barbrete/Academia-POO)<br>2.	<b>Api de Autenticação e Autorizaçao:</b> Feita em C# para Iniciação Científica que faço parte.<br>- [APIAlunoProfessor](https://github.com/barbrete/APIAlunoProfessor)<br>3.	<b>Pesquisa e Ordenação:</b> Algoritmos feitos em C para treinamento de maratonas de programação<br>- [Pesquisa-e-Ordenacao](https://github.com/barbrete/Pesquisa-e-Ordenacao)</p>
 
 ###
 
@@ -80,8 +80,7 @@
 
 ###
 
-<p align="left">Entre em contato pelo[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)]
-(https://br.linkedin.com/in/b%C3%A1rbara-gianvechio?trk=public_post_feed-actor-name) 
+<p align="left">Entre em contato pelo [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://br.linkedin.com/in/b%C3%A1rbara-gianvechio?trk=public_post_feed-actor-name)
 ou mande um email para [bgcmda@gmail.com].</p>
 
 ###
