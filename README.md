@@ -90,7 +90,7 @@ ou mande um email para [bgcmda@gmail.com].</p>
 
 ###
 
-<p align="left">📚 Adoro ler sobre Ficção Científica, Tecnologia e Inovação.<br>🎮 Gosto de jogos de história e MOBA.<br>🏆 Participante assídua de Hackathons.<br>💬 Interesse em Gerenciamento de Projetos, Inteligência Artificial, UX UI e Segurança da Informação.</p>
+<p align="left">📚 Adoro ler sobre Ficção Científica, Tecnologia e Inovação.<br>🎮 Gosto de jogos de história e MOBA.<br>🏃‍♀️ Participante assídua de Hackathons.<br>💬 Interesse em Gerenciamento de Projetos, Inteligência Artificial, UX UI e Segurança da Informação.</p>
 
 ###
 ---
